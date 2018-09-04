@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1536059918 source:c:\users\aluno\desktop\prova ip 02.04.18\aula 09.04.18\aula 16.05.18\q2\heap sort\main.cpp
+	<iostream>
+
+1536081159 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaoporcomparacao3\heap sort\main.cpp
+	<iostream>
+	"HeapSort.h"
+
+1536081189 c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaoporcomparacao3\heap sort\include\heapsort.h
+	<iostream>
+
+1536081154 source:c:\users\ivan\documents\ufpb\análise de projetos e algoritmos\ordenacaoporcomparacao3\heap sort\src\heapsort.cpp
+	"HeapSort.h"
+
